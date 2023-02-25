@@ -1,1 +1,1 @@
-lorem ipsum
+I have successfully generated outputs showing the distribution of data on the world map using *px.scatter_mapbox* and *px.scatter_geo*, but they cannot be displayed on Github. Once I solve the problem or use another library, I will update the project.
