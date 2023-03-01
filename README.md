@@ -1,2 +1,2 @@
 # Data_Analysis_and_Visualization
-Various exercises on data analysis and visualization
+I am exploring various datasets that I found online in this repository to demonstrate my SQL skills. I apply visualization techniques or various machine learning algorithms and choose the most suitable one according to the content of the dataset. Therefore, the distribution of the algorithms I use may be a bit irregular. I only share completed projects. That's why there are currently a limited number of projects available, but they will be updated in the near future.
